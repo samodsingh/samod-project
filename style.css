@@ -1,0 +1,44 @@
+
+ body{
+    font-size: 20px;    
+    margin-bottom: 0px;
+    min-width: 1000px;
+   
+   }
+
+.btn{
+    margin: 20px;
+   background-color: black;
+   color: whitesmoke;
+}
+.btn:hover{
+    background-color: rgb(46, 46, 138);
+    color: whitesmoke;
+}
+.jumbotron-fluid{
+    min-width: 1000px;
+    background-image: url(2.png );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.80;
+    color: whitesmoke;
+    padding-top: 0px;
+   
+}
+.lead{
+    font-size: 30px;
+    color: black;
+}
+.container, .container-fluid{
+    min-width: 1000px;
+}
+.boder{
+   
+    border-top: 4px solid rgb(117, 117, 126);
+}
+
+
+.footer-style{
+    
+}
